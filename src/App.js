@@ -5,7 +5,7 @@ import MemeGenerator from "./components/MemeGenerator";
 function App() {
   return (
     <div>
-      <Header/>
+      <Header/>git config --global --unset credential.helper
       <MemeGenerator/>
     </div>
   )
